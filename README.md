@@ -1,1 +1,2 @@
 # BlackJackSimulator
+This is a desktop java application to simulate the play of any number of blackjack hands.  You can alter the number of decks it plays (up to ten decks per shoe), change the number to hands to play, change the starting total amount of cash and bet size per hand.  You can change the play strategy by accessing the spreadsheet through the top menu, and you can change the bet size strategy, which alters the bet size based on the previous results.  It will draw a graph of your results andif requested, it will show you a log of each hand played.
